@@ -1,7 +1,7 @@
 {
-  "name": "threejstest",
+  "name": "Basic webpack setup",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic webpack setup with CSS, ES2015 and Server",
   "main": "index.js",
   "dependencies": {
     "three": "^0.88.0"
