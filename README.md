@@ -1,5 +1,6 @@
 # basic-webpack-server
 A basic webpack server with ES2015, CSS, and webpack server
+This template assume you already have NodeJS installed
 
 Clone or download the git
 
